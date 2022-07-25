@@ -64,3 +64,4 @@ deleteEscalationPolicy(team_id,ep_id)
     this.api_client.call_api(`/api/account/teams/${team_id}/escalation_policies/${ep_id}/`,'delete')
 }
 }
+

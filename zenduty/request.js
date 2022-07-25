@@ -4,7 +4,7 @@ const conf=new require("./configuration")
 class FetchClientObject {
 
      constructor () {
-     this.apiUrl="https://www.zenduty.com"
+     this.apiUrl="https://www.qbeeko.com"
      }
 
 
